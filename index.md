@@ -23,4 +23,7 @@ Here we have posted the simple guide and code snippets that… [Read More..]
 Do you want to enter boot flags or Edit boot Flags while booting Clover for testing purpose.
 Then you land on the right planet. Here we have posted the guide that will tell you about… [Read More..]
 
-###
+### [All You Need to Know About Open-Ended and Closed-Ended Questions](http://extracatchy.net/open-ended-questions-and-closed-ended-questions/)
+![Closed-Ended Questions](http://extracatchy.net/wp-content/uploads/2017/04/open-ended-questiosn-and-closed-ended-questions.png)
+
+Do you know that open-ended and close-ended questions are the most important communicating skills to build rapport and connect with someone deeply? That’s why we decided to share with you this amazing communication skills with… [Read More..]
