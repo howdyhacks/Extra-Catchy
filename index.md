@@ -27,3 +27,10 @@ Then you land on the right planet. Here we have posted the guide that will tell 
 ![Closed-Ended Questions](http://extracatchy.net/wp-content/uploads/2017/04/open-ended-questiosn-and-closed-ended-questions.png)
 
 Do you know that open-ended and close-ended questions are the most important communicating skills to build rapport and connect with someone deeply? That’s why we decided to share with you this amazing communication skills with… [Read More..]
+
+### [Brain Pro Tips: How to Easily Remember Any Item List](http://extracatchy.net/how-to-easily-remember-any-item-list/)
+![How to Easily Remember Any Item List](http://extracatchy.net/wp-content/uploads/2017/04/how-to-remeber-any-10-items-list.png)
+
+Remembering things or words, items list is really hard task to our brain sometimes if we don’t try to remember them by the brain secret tips. That’s why we build this guide that will help… [Read More..]
+
+### [Lenovo A7000 Custom VibeUI Lite v3.5 ROM –](http://extracatchy.net/lenovo-a7000-custom-vibeui-lite-rom/)
