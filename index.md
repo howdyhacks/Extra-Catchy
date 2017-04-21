@@ -37,3 +37,20 @@ Remembering things or words, items list is really hard task to our brain sometim
 ![Lenovo A7000 Custom VibeUI](http://extracatchy.net/wp-content/uploads/2017/03/custom-roms-list.png)
 
 Do you guys want the latest version of VibeUI Lite v3.5 installed in your smart phone and get the benefits of VibeUI interface? Then you came at the right place. Here we have posted the… [Read More..]
+
+### [Guide: How to Pause, Assess the Situation and Create Solutions](http://extracatchy.net/how-to-pause-assess-the-situation-and-create-solutions/)
+![Guide: How to Pause](http://extracatchy.net/wp-content/uploads/2017/04/how-to-pause-access-the-situation-and-create-solutions.png)
+
+Do you guys want to control anger, frustration, handle the difficult situation, make the great discussion, and have full access to the situation of your life? Then you came at the right place. Here we… [Read More..]
+
+### [What are Some Lessons That Life Teaches to Most Peoples?](http://extracatchy.net/lessons-that-life-teaches-to-most-peoples/)
+![What are Some Lessons](http://extracatchy.net/wp-content/uploads/2017/04/some-lessons-that-life-teaches.png)
+
+Hey guys do you want to know what are the some lessons that life teaches most of the people’s specially youth? Then you came at the right place. Here we have posted the list of… [Read More..]
+
+### [How to Retrieve the Slug of Current Page in WordPress?](http://extracatchy.net/retrieve-the-slug-of-current-page-wordpress-2/)
+![How to Retrieve the Slug](http://extracatchy.net/wp-content/uploads/2017/04/how-to-retrieve-the-slug-of-page-in-wordpress.png)
+
+Most of the time we want to retrieve the slug of the current WordPress page outside the loop for applying it on page CSS if the query, or whatever for you want to use that… [Read More..]
+
+
