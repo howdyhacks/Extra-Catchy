@@ -53,4 +53,4 @@ Hey guys do you want to know what are the some lessons that life teaches most of
 
 Most of the time we want to retrieve the slug of the current WordPress page outside the loop for applying it on page CSS if the query, or whatever for you want to use that… [Read More..]
 
-
+## [page 2]
