@@ -34,3 +34,6 @@ Do you know that open-ended and close-ended questions are the most important com
 Remembering things or words, items list is really hard task to our brain sometimes if we don’t try to remember them by the brain secret tips. That’s why we build this guide that will help… [Read More..]
 
 ### [Lenovo A7000 Custom VibeUI Lite v3.5 ROM –](http://extracatchy.net/lenovo-a7000-custom-vibeui-lite-rom/)
+![Lenovo A7000 Custom VibeUI](http://extracatchy.net/wp-content/uploads/2017/03/custom-roms-list.png)
+
+Do you guys want the latest version of VibeUI Lite v3.5 installed in your smart phone and get the benefits of VibeUI interface? Then you came at the right place. Here we have posted the… [Read More..]
