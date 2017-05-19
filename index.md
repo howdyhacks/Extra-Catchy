@@ -11,3 +11,16 @@ simple code snippets, not any plugin? Then [Read More…]
 
 Do you want to disable RSS feeds from your WordPress website so users can’t access it and 
 search engine too? Then you came at the [Read More…]
+
+### [How to Customize “Howdy” Text In WordPress Admin Bar](http://extracatchy.net/customize-howdy-text-wordpress-admin/)
+![How to Customize](http://extracatchy.net/wp-content/uploads/2017/05/change-howdy-text-in-wordpress-admin-400x160.png)
+
+Do you want to change or modify the “Howdy” message to “Welcome” or something else in your WordPress
+Admin Bar without using the plugin? Then [Read More…]
+
+### [How to Remove Update Notice ONLY for INACTIVE Plugins WordPress](http://extracatchy.net/remove-plugin-update-notice-inactive-plugins/)
+![How to Remove](http://extracatchy.net/wp-content/uploads/2017/05/remove-inactive-plugins-update-notification-400x160.png)
+
+Do you want to hide or remove the WordPress update notification for inactive plugins
+without using any plugin? Then this is the best place for [Read More…]
+
