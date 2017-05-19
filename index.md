@@ -24,3 +24,8 @@ Admin Bar without using the plugin? Then [Read More…]
 Do you want to hide or remove the WordPress update notification for inactive plugins
 without using any plugin? Then this is the best place for [Read More…]
 
+### [How to Customize the Post Info Function in Genesis Theme](http://extracatchy.net/customize-post-info-function-genesis/)
+![How to Customize the Post](http://extracatchy.net/wp-content/uploads/2017/05/customize-post-info-function-genesis-400x160.png)
+
+Do you want to customize the Post Info function which includes the post date,
+author name, comments count with a link, etc?Then you came to [Read More…]
